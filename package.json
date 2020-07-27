@@ -1,11 +1,11 @@
 {
-  "name": "od-mingo",
-  "version": "2.2.4",
-  "description": "",
-  "main": "dist/mingo.min.js",
-  "author": "",
-  "license": "ISC",
-  "scripts": {},
-  "dependencies": {},
-  "devDependencies": {}
-}
+    "name": "od-mingo",
+    "version": "2.2.4",
+    "description": "",
+    "main": "dist/mingo.es6.js",
+    "author": "",
+    "license": "MIT",
+    "scripts": {},
+    "dependencies": {},
+    "devDependencies": {}
+  }
